@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hungry-Pikachu
-- 👀 I’m interested in Ethical Hacking && Codng(Programming)
+- 👀 I’m interested in Ethical Hacking && Coding(Programming)
 - 🌱 I’m currently learning none of the institutes
 - 💞️ I’m looking to collaborate mainly on Ethical Hacking projects
 - 📫 How to reach me ..: you can mail me 
